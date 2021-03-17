@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fitness &amp; LifeStyle</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="skip_and_continue">Skip and Continue</string>
+    <string name="splash">SplashScreen</string>
+
+</resources>
