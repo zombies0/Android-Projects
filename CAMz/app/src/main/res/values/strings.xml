@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CAM z</string>
+    <string name="todo">TODO</string>
+    <string name="galary">Galary</string>
+    <string name="o">O</string>
+    <string name="turn">✓</string>
+    <string name="capture">capture</string>
+</resources>

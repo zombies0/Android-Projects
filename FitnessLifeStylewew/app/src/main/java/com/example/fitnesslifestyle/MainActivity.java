@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
 
 
-        int SPLASH_TIME_OUT = 4000;
+
+
+        int SPLASH_TIME_OUT = 1000;
 
         new Handler().postDelayed(new Runnable() {
             @Override
